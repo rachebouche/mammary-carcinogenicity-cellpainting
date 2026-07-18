@@ -1,0 +1,16 @@
+# Python 3.13. Install with: pip install -r requirements.txt
+pandas==2.2.3
+numpy==2.2.5
+scipy==1.16.0
+scikit-learn==1.7.1
+matplotlib==3.10.6
+seaborn==0.13.2
+umap-learn==0.5.9
+dynamicTreeCut==0.1.1
+kneed==0.8.6
+pubchempy==1.0.4
+
+# Only needed to regenerate data/processed/int_ns_h/*.csv from the raw
+# JUMP-CP parquet file (data/preprocess_JUMPCP.py) - not required to run the
+# analysis notebooks themselves, which read the already-generated CSVs.
+pyarrow==12.0.1

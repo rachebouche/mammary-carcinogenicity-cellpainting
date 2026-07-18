@@ -1,0 +1,10 @@
+compound_id,score,predicted,InChIKey,Name and abbreviation,CAS no.
+JCP2022_092114,0.3127,MC-like,UXADOQPNKNTIHB-UHFFFAOYSA-N,Clofentezine,74115-24-5
+JCP2022_029699,0.0693,MC-like,HEOCBCNFKCOKBX-UHFFFAOYSA-N,"(±)-1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2- (4-MBC)",36861-47-9
+JCP2022_013451,0.0321,MC-like,CUHVIMMYOGQXCV-UHFFFAOYSA-N,Medetomidine,86347-14-0
+JCP2022_064048,0.031,MC-like,OIQXFRANQVWXJF-UHFFFAOYSA-N,"1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one; 3-BC",15087-24-8
+JCP2022_073093,-0.0076,NOMC-like,QFOHBWFCKVYLES-UHFFFAOYSA-N,Butyl 4-hydroxybenzoate; Butylparaben,94-26-8
+JCP2022_017185,-0.0387,NOMC-like,DOIRQSBPFJWKBE-UHFFFAOYSA-N,Dibutyl phthalate (DBP),84-74-2
+JCP2022_035308,-0.0431,NOMC-like,IISBACLAFKSPIT-UHFFFAOYSA-N,"4,4'-isopropylidenediphenol; Bisphenol A",80-05-7
+JCP2022_036912,-0.0943,NOMC-like,IRIAEXORFWYRCZ-UHFFFAOYSA-N,Benzyl butyl phthalate (BBP),85-68-7
+JCP2022_037041,-0.186,NOMC-like,ISAVYTVYFVQUDY-UHFFFAOYSA-N,"4-(1,1,3,3-tetramethylbutyl)phenol",140-66-9

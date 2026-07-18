@@ -1,0 +1,18 @@
+# Large raw/intermediate data not suitable for git (see README "Data availability")
+data/jump-preprocessed/
+
+# Manuscript draft (unpublished, not part of the code archive)
+submission/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+.~lock.*#
+
+# This tool's local config
+.claude/
