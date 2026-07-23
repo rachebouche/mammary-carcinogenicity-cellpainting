@@ -9,7 +9,7 @@ If you use this code or these results, please cite:
 
 > Achebouche R., Taboureau O. *[title]*. [journal], [year]. doi:[XXXX]
 
-Archived at Zenodo: doi:[XXXX]
+Archived at Zenodo: doi: 10.5281/zenodo.21512685
 
 ---
 
