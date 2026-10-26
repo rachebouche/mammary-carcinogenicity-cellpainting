@@ -13,6 +13,3 @@ __pycache__/
 .DS_Store
 *.swp
 .~lock.*#
-
-# This tool's local config
-.claude/
